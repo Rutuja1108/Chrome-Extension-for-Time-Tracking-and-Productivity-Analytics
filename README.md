@@ -40,3 +40,11 @@ A lightweight Chrome extension to track time, monitor browsing activity, and pro
 - `popup.js` – Handles user interactions  
 - `background.js` – Manages background tracking  
 - `styles.css` – Popup styling
+- `icon.png` – Extension icon
+
+
+# 🤝 Contributing
+
+Feel free to fork the repo, raise issues, or submit pull requests to enhance features or fix bugs.
+
+
